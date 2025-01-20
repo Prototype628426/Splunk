@@ -13,6 +13,7 @@ Splunk, ArcSight, Cortex XDR, Cofense
 Defender for Cloud, Immuniweb, Qualys
 Trend Micro OfficeScan, Nessus, Nexpose
 Regex Log Parsing, Firewall Configuration
+
 Certifications:
 Red Hat (RHCSA, RHCE, OpenShift Admin, Ansible Automation)
 Cisco CCNA
